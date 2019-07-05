@@ -1,3 +1,4 @@
 ﻿# river_python
 
-This doesn't work yet. Still working!
+river.py was my first attempt at Python.
+river_crossing.py is more recent and actually works.
